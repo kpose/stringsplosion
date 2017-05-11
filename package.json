@@ -1,0 +1,23 @@
+{
+  "name": "stringsplosion",
+  "version": "1.0.0",
+  "description": "An Andela home study task to implement a `StringSplosion` class whose constructor accepts a string argument.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpose/stringsplosion.git"
+  },
+  "keywords": [
+    "string",
+    "splosion"
+  ],
+  "author": "richard jude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpose/stringsplosion/issues"
+  },
+  "homepage": "https://github.com/kpose/stringsplosion#readme"
+}
